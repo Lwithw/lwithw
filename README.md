@@ -117,14 +117,6 @@ Building AI chatbots, WhatsApp automation, workflow automation, LLM integrations
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lwithw&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
----
-
 # 📈 Profile Views
 
 <p align="center">
