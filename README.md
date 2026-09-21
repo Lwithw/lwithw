@@ -12,7 +12,7 @@ I'm a passionate Full Stack Developer from India who enjoys building scalable we
 * 🌱 Currently learning **AI Agents, MCP, Kubernetes, and Advanced System Design**
 * 💬 Ask me about **Next.js, React, TypeScript, Django, FastAPI, Laravel, Flutter, Docker, AWS, PostgreSQL, AI Integration, and WhatsApp Automation**
 * 🌐 Portfolio: **https://lwithw.in**
-* 📫 Email: **[lwithw666@gmail.com](mailto:lwithw.dev@gmail.com)**
+* 📫 Email: **[lwithw.dev@gmail.com](mailto:lwithw.dev@gmail.com)**
 * ⚡ Fun Fact: I enjoy building products that solve real-world business problems.
 
 ---
